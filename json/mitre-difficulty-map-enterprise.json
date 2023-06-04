@@ -10524,93 +10524,93 @@
 		{
 			"techniqueID": "T1078",
 			"tactic": "defense-evasion",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
-			"showSubtechniques": false
+			"showSubtechniques": true
 		},
 		{
 			"techniqueID": "T1078",
 			"tactic": "persistence",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
-			"showSubtechniques": false
+			"showSubtechniques": true
 		},
 		{
 			"techniqueID": "T1078",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
-			"showSubtechniques": false
+			"showSubtechniques": true
 		},
 		{
 			"techniqueID": "T1078",
 			"tactic": "initial-access",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
-			"showSubtechniques": false
+			"showSubtechniques": true
 		},
 		{
 			"techniqueID": "T1078.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10619,17 +10619,17 @@
 		{
 			"techniqueID": "T1078.001",
 			"tactic": "persistence",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10638,17 +10638,17 @@
 		{
 			"techniqueID": "T1078.001",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10657,17 +10657,17 @@
 		{
 			"techniqueID": "T1078.001",
 			"tactic": "initial-access",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10676,17 +10676,17 @@
 		{
 			"techniqueID": "T1078.002",
 			"tactic": "defense-evasion",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10695,17 +10695,17 @@
 		{
 			"techniqueID": "T1078.002",
 			"tactic": "persistence",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10714,17 +10714,17 @@
 		{
 			"techniqueID": "T1078.002",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10733,17 +10733,17 @@
 		{
 			"techniqueID": "T1078.002",
 			"tactic": "initial-access",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10752,17 +10752,17 @@
 		{
 			"techniqueID": "T1078.004",
 			"tactic": "defense-evasion",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10771,17 +10771,17 @@
 		{
 			"techniqueID": "T1078.004",
 			"tactic": "persistence",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10790,17 +10790,17 @@
 		{
 			"techniqueID": "T1078.004",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10809,17 +10809,17 @@
 		{
 			"techniqueID": "T1078.004",
 			"tactic": "initial-access",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10828,17 +10828,17 @@
 		{
 			"techniqueID": "T1078.003",
 			"tactic": "defense-evasion",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10847,17 +10847,17 @@
 		{
 			"techniqueID": "T1078.003",
 			"tactic": "persistence",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10866,17 +10866,17 @@
 		{
 			"techniqueID": "T1078.003",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
@@ -10885,17 +10885,17 @@
 		{
 			"techniqueID": "T1078.003",
 			"tactic": "initial-access",
-			"color": "#636363",
-			"comment": "",
+			"color": "#31a354",
+			"comment": "Easy to exploit, you're simply logging in to valid accounts with obtained credentials. ",
 			"enabled": true,
 			"metadata": [
 				{
 					"name": "Difficulty",
-					"value": "TBD"
+					"value": "Green"
 				},
 				{
 					"name": "Contributor",
-					"value": "TBD"
+					"value": "min0k"
 				}
 			],
 			"links": [],
