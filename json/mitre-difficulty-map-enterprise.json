@@ -2226,7 +2226,7 @@
 		{
 			"techniqueID": "T1552",
 			"tactic": "credential-access",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2236,7 +2236,7 @@
 		{
 			"techniqueID": "T1552.002",
 			"tactic": "credential-access",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2246,7 +2246,7 @@
 		{
 			"techniqueID": "T1552.008",
 			"tactic": "credential-access",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2266,7 +2266,7 @@
 		{
 			"techniqueID": "T1552.006",
 			"tactic": "credential-access",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2276,7 +2276,7 @@
 		{
 			"techniqueID": "T1552.001",
 			"tactic": "credential-access",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2296,7 +2296,7 @@
 		{
 			"techniqueID": "T1552.003",
 			"tactic": "credential-access",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2306,7 +2306,7 @@
 		{
 			"techniqueID": "T1552.004",
 			"tactic": "credential-access",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3336,7 +3336,7 @@
 		{
 			"techniqueID": "T1222",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3346,7 +3346,7 @@
 		{
 			"techniqueID": "T1222.002",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3356,7 +3356,7 @@
 		{
 			"techniqueID": "T1222.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7826,7 +7826,7 @@
 		{
 			"techniqueID": "T1529",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7904,5 +7904,5 @@
 	"showTacticRowBackground": false,
 	"tacticRowBackground": "#dddddd",
 	"selectTechniquesAcrossTactics": true,
-	"selectSubtechniquesWithParent": true
+	"selectSubtechniquesWithParent": false
 }
