@@ -33,8 +33,13 @@ _in progress.._
 
 - **Expert-Level Techniques:** Requires deep OS knowledge or custom coding (DLL/EXE) for exploitation.
 
+![#636363](https://placehold.co/15x15/636363/636363.png) **Grey** `#636363` 
+
+- **Placeholder:** Dfficulty not yet determined.
+
+
 ## Acknowledgement
 
 This project is built upon and inspired by [TravisFSmith/mitre_attack](https://github.com/TravisFSmith/mitre_attack). You can find his talk about the project here [MITRE ATT&CKcon 2018: ATT&CK as a Teacher](https://www.youtube.com/watch?v=4s3pZirFCPk&t). 
 
-I saw the original project hadn't been updated in a while (last update was for ATT&CK v7 and it's currently on ATT&CK v13). For learning purposes and to keep this resource relevant, it's been refreshed it with the latest data _(in progress..)_
+The original project had not been updated for some time (the last update was for ATT&CK v7, whereas the current version is ATT&CK v13). For personal learning purposes and to maintain the resource's relevance, it has been updated with the latest data.
