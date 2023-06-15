@@ -356,7 +356,7 @@
 		{
 			"techniqueID": "T1592",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -366,7 +366,7 @@
 		{
 			"techniqueID": "T1592.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -376,7 +376,7 @@
 		{
 			"techniqueID": "T1592.004",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -386,7 +386,7 @@
 		{
 			"techniqueID": "T1592.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -396,7 +396,7 @@
 		{
 			"techniqueID": "T1592.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -826,7 +826,7 @@
 		{
 			"techniqueID": "T1594",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2986,7 +2986,7 @@
 		{
 			"techniqueID": "T1589",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2996,7 +2996,7 @@
 		{
 			"techniqueID": "T1589.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3006,7 +3006,7 @@
 		{
 			"techniqueID": "T1589.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3016,7 +3016,7 @@
 		{
 			"techniqueID": "T1589.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3156,7 +3156,7 @@
 		{
 			"techniqueID": "T1596",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3166,7 +3166,7 @@
 		{
 			"techniqueID": "T1596.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3176,7 +3176,7 @@
 		{
 			"techniqueID": "T1596.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3186,7 +3186,7 @@
 		{
 			"techniqueID": "T1596.004",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3196,7 +3196,7 @@
 		{
 			"techniqueID": "T1596.005",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3206,7 +3206,7 @@
 		{
 			"techniqueID": "T1596.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3366,7 +3366,7 @@
 		{
 			"techniqueID": "T1595",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3376,7 +3376,7 @@
 		{
 			"techniqueID": "T1595.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3386,7 +3386,7 @@
 		{
 			"techniqueID": "T1595.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3396,7 +3396,7 @@
 		{
 			"techniqueID": "T1595.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4536,7 +4536,7 @@
 		{
 			"techniqueID": "T1591",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4546,7 +4546,7 @@
 		{
 			"techniqueID": "T1591.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4556,7 +4556,7 @@
 		{
 			"techniqueID": "T1591.004",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4566,7 +4566,7 @@
 		{
 			"techniqueID": "T1591.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4576,7 +4576,7 @@
 		{
 			"techniqueID": "T1591.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4646,7 +4646,7 @@
 		{
 			"techniqueID": "T1590",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4656,7 +4656,7 @@
 		{
 			"techniqueID": "T1590.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4666,7 +4666,7 @@
 		{
 			"techniqueID": "T1590.006",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4676,7 +4676,7 @@
 		{
 			"techniqueID": "T1590.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4686,7 +4686,7 @@
 		{
 			"techniqueID": "T1590.004",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4696,7 +4696,7 @@
 		{
 			"techniqueID": "T1590.005",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4706,7 +4706,7 @@
 		{
 			"techniqueID": "T1590.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4746,7 +4746,7 @@
 		{
 			"techniqueID": "T1593",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4756,7 +4756,7 @@
 		{
 			"techniqueID": "T1593.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4766,7 +4766,7 @@
 		{
 			"techniqueID": "T1593.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4776,7 +4776,7 @@
 		{
 			"techniqueID": "T1593.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4886,7 +4886,7 @@
 		{
 			"techniqueID": "T1597",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4896,7 +4896,7 @@
 		{
 			"techniqueID": "T1597.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4906,7 +4906,7 @@
 		{
 			"techniqueID": "T1597.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6666,7 +6666,7 @@
 		{
 			"techniqueID": "T1598",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6676,7 +6676,7 @@
 		{
 			"techniqueID": "T1598.001",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6686,7 +6686,7 @@
 		{
 			"techniqueID": "T1598.002",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6696,7 +6696,7 @@
 		{
 			"techniqueID": "T1598.003",
 			"tactic": "reconnaissance",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
