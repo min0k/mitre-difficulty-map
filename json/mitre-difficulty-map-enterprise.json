@@ -266,7 +266,7 @@
 		{
 			"techniqueID": "T1583",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -276,7 +276,7 @@
 		{
 			"techniqueID": "T1583.006",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -286,7 +286,7 @@
 		{
 			"techniqueID": "T1583.005",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -296,7 +296,7 @@
 		{
 			"techniqueID": "T1583.004",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -306,7 +306,7 @@
 		{
 			"techniqueID": "T1583.007",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -316,7 +316,7 @@
 		{
 			"techniqueID": "T1583.002",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -326,7 +326,7 @@
 		{
 			"techniqueID": "T1583.008",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -336,7 +336,7 @@
 		{
 			"techniqueID": "T1583.001",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -346,7 +346,7 @@
 		{
 			"techniqueID": "T1583.003",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3976,7 +3976,7 @@
 		{
 			"techniqueID": "T1584",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3986,7 +3986,7 @@
 		{
 			"techniqueID": "T1584.006",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3996,7 +3996,7 @@
 		{
 			"techniqueID": "T1584.004",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4006,7 +4006,7 @@
 		{
 			"techniqueID": "T1584.002",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4016,7 +4016,7 @@
 		{
 			"techniqueID": "T1584.003",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4026,7 +4026,7 @@
 		{
 			"techniqueID": "T1584.007",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4036,7 +4036,7 @@
 		{
 			"techniqueID": "T1584.005",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4046,7 +4046,7 @@
 		{
 			"techniqueID": "T1584.001",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4176,7 +4176,7 @@
 		{
 			"techniqueID": "T1586",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4186,7 +4186,7 @@
 		{
 			"techniqueID": "T1586.002",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4196,7 +4196,7 @@
 		{
 			"techniqueID": "T1586.001",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4206,7 +4206,7 @@
 		{
 			"techniqueID": "T1586.003",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4336,7 +4336,7 @@
 		{
 			"techniqueID": "T1608",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4346,7 +4346,7 @@
 		{
 			"techniqueID": "T1608.006",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4356,7 +4356,7 @@
 		{
 			"techniqueID": "T1608.002",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4366,7 +4366,7 @@
 		{
 			"techniqueID": "T1608.003",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4376,7 +4376,7 @@
 		{
 			"techniqueID": "T1608.004",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4386,7 +4386,7 @@
 		{
 			"techniqueID": "T1608.001",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4396,7 +4396,7 @@
 		{
 			"techniqueID": "T1608.005",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6716,7 +6716,7 @@
 		{
 			"techniqueID": "T1585",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6726,7 +6726,7 @@
 		{
 			"techniqueID": "T1585.002",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6736,7 +6736,7 @@
 		{
 			"techniqueID": "T1585.001",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6746,7 +6746,7 @@
 		{
 			"techniqueID": "T1585.003",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6756,7 +6756,7 @@
 		{
 			"techniqueID": "T1588",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6766,7 +6766,7 @@
 		{
 			"techniqueID": "T1588.003",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6776,7 +6776,7 @@
 		{
 			"techniqueID": "T1588.001",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6786,7 +6786,7 @@
 		{
 			"techniqueID": "T1588.004",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6796,7 +6796,7 @@
 		{
 			"techniqueID": "T1588.005",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6806,7 +6806,7 @@
 		{
 			"techniqueID": "T1588.006",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6816,7 +6816,7 @@
 		{
 			"techniqueID": "T1588.002",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6856,7 +6856,7 @@
 		{
 			"techniqueID": "T1650",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7416,7 +7416,7 @@
 		{
 			"techniqueID": "T1587",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7426,7 +7426,7 @@
 		{
 			"techniqueID": "T1587.002",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7436,7 +7436,7 @@
 		{
 			"techniqueID": "T1587.003",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7446,7 +7446,7 @@
 		{
 			"techniqueID": "T1587.004",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7456,7 +7456,7 @@
 		{
 			"techniqueID": "T1587.001",
 			"tactic": "resource-development",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
