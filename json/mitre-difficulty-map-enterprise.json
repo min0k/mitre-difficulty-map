@@ -1926,7 +1926,7 @@
 		{
 			"techniqueID": "T1195",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1936,7 +1936,7 @@
 		{
 			"techniqueID": "T1195.003",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1946,7 +1946,7 @@
 		{
 			"techniqueID": "T1195.001",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1956,7 +1956,7 @@
 		{
 			"techniqueID": "T1195.002",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4736,7 +4736,7 @@
 		{
 			"techniqueID": "T1199",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4916,7 +4916,7 @@
 		{
 			"techniqueID": "T1566",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4926,7 +4926,7 @@
 		{
 			"techniqueID": "T1566.003",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4936,7 +4936,7 @@
 		{
 			"techniqueID": "T1566.002",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4946,7 +4946,7 @@
 		{
 			"techniqueID": "T1566.001",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
