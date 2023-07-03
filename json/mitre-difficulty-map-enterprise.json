@@ -2826,7 +2826,7 @@
 		{
 			"techniqueID": "T1010",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3316,7 +3316,7 @@
 		{
 			"techniqueID": "T1217",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3536,7 +3536,7 @@
 		{
 			"techniqueID": "T1087",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3546,7 +3546,7 @@
 		{
 			"techniqueID": "T1087.001",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3556,7 +3556,7 @@
 		{
 			"techniqueID": "T1087.002",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3566,7 +3566,7 @@
 		{
 			"techniqueID": "T1087.003",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3576,7 +3576,7 @@
 		{
 			"techniqueID": "T1087.004",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
