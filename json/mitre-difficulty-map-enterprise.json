@@ -666,7 +666,7 @@
 		{
 			"techniqueID": "T1133",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -676,7 +676,7 @@
 		{
 			"techniqueID": "T1133",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1966,7 +1966,7 @@
 		{
 			"techniqueID": "T1190",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6906,7 +6906,7 @@
 		{
 			"techniqueID": "T1200",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6996,7 +6996,7 @@
 		{
 			"techniqueID": "T1189",
 			"tactic": "initial-access",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
