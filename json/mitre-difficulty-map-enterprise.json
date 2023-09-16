@@ -46,7 +46,7 @@
 		{
 			"techniqueID": "T1113",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1436,7 +1436,7 @@
 		{
 			"techniqueID": "T1115",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3026,7 +3026,7 @@
 		{
 			"techniqueID": "T1560",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3036,7 +3036,7 @@
 		{
 			"techniqueID": "T1560.002",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3046,7 +3046,7 @@
 		{
 			"techniqueID": "T1560.003",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3056,7 +3056,7 @@
 		{
 			"techniqueID": "T1560.001",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3326,7 +3326,7 @@
 		{
 			"techniqueID": "T1092",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6636,7 +6636,7 @@
 		{
 			"techniqueID": "T1132",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6646,7 +6646,7 @@
 		{
 			"techniqueID": "T1132.001",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6656,7 +6656,7 @@
 		{
 			"techniqueID": "T1132.002",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7326,7 +7326,7 @@
 		{
 			"techniqueID": "T1105",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
