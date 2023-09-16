@@ -56,7 +56,7 @@
 		{
 			"techniqueID": "T1037",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -66,7 +66,7 @@
 		{
 			"techniqueID": "T1037",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -76,7 +76,7 @@
 		{
 			"techniqueID": "T1037.002",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -86,7 +86,7 @@
 		{
 			"techniqueID": "T1037.002",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -96,7 +96,7 @@
 		{
 			"techniqueID": "T1037.003",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -106,7 +106,7 @@
 		{
 			"techniqueID": "T1037.003",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -116,7 +116,7 @@
 		{
 			"techniqueID": "T1037.001",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -126,7 +126,7 @@
 		{
 			"techniqueID": "T1037.001",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -136,7 +136,7 @@
 		{
 			"techniqueID": "T1037.005",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -146,7 +146,7 @@
 		{
 			"techniqueID": "T1037.005",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -156,7 +156,7 @@
 		{
 			"techniqueID": "T1037.004",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -166,7 +166,7 @@
 		{
 			"techniqueID": "T1037.004",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -566,7 +566,7 @@
 		{
 			"techniqueID": "T1543",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -576,7 +576,7 @@
 		{
 			"techniqueID": "T1543",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -586,7 +586,7 @@
 		{
 			"techniqueID": "T1543.002",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -596,7 +596,7 @@
 		{
 			"techniqueID": "T1543.002",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -606,7 +606,7 @@
 		{
 			"techniqueID": "T1543.001",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -616,7 +616,7 @@
 		{
 			"techniqueID": "T1543.001",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -626,7 +626,7 @@
 		{
 			"techniqueID": "T1543.004",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -636,7 +636,7 @@
 		{
 			"techniqueID": "T1543.004",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -646,7 +646,7 @@
 		{
 			"techniqueID": "T1543.003",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -656,7 +656,7 @@
 		{
 			"techniqueID": "T1543.003",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3076,7 +3076,7 @@
 		{
 			"techniqueID": "T1021",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3086,7 +3086,7 @@
 		{
 			"techniqueID": "T1021.001",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3096,7 +3096,7 @@
 		{
 			"techniqueID": "T1021.006",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3106,7 +3106,7 @@
 		{
 			"techniqueID": "T1021.005",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3116,7 +3116,7 @@
 		{
 			"techniqueID": "T1021.007",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3126,7 +3126,7 @@
 		{
 			"techniqueID": "T1021.002",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3136,7 +3136,7 @@
 		{
 			"techniqueID": "T1021.003",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3146,7 +3146,7 @@
 		{
 			"techniqueID": "T1021.004",
 			"tactic": "lateral-movement",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3406,7 +3406,7 @@
 		{
 			"techniqueID": "T1548",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3416,7 +3416,7 @@
 		{
 			"techniqueID": "T1548",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3426,7 +3426,7 @@
 		{
 			"techniqueID": "T1548.002",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3436,7 +3436,7 @@
 		{
 			"techniqueID": "T1548.002",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3446,7 +3446,7 @@
 		{
 			"techniqueID": "T1548.003",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3456,7 +3456,7 @@
 		{
 			"techniqueID": "T1548.003",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3466,7 +3466,7 @@
 		{
 			"techniqueID": "T1548.004",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3476,7 +3476,7 @@
 		{
 			"techniqueID": "T1548.004",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3486,7 +3486,7 @@
 		{
 			"techniqueID": "T1548.001",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3496,7 +3496,7 @@
 		{
 			"techniqueID": "T1548.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4786,7 +4786,7 @@
 		{
 			"techniqueID": "T1098",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4806,7 +4806,7 @@
 		{
 			"techniqueID": "T1098.004",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4836,7 +4836,7 @@
 		{
 			"techniqueID": "T1098.002",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7046,7 +7046,7 @@
 		{
 			"techniqueID": "T1221",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
