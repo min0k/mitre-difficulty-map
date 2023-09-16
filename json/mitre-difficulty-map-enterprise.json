@@ -836,7 +836,7 @@
 		{
 			"techniqueID": "T1561",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -846,7 +846,7 @@
 		{
 			"techniqueID": "T1561.001",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -856,7 +856,7 @@
 		{
 			"techniqueID": "T1561.002",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1216,7 +1216,7 @@
 		{
 			"techniqueID": "T1489",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2836,7 +2836,7 @@
 		{
 			"techniqueID": "T1029",
 			"tactic": "exfiltration",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5776,7 +5776,7 @@
 		{
 			"techniqueID": "T1531",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6286,7 +6286,7 @@
 		{
 			"techniqueID": "T1486",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6536,7 +6536,7 @@
 		{
 			"techniqueID": "T1030",
 			"tactic": "exfiltration",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6706,7 +6706,7 @@
 		{
 			"techniqueID": "T1496",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6976,7 +6976,7 @@
 		{
 			"techniqueID": "T1485",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7306,7 +7306,7 @@
 		{
 			"techniqueID": "T1052",
 			"tactic": "exfiltration",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7316,7 +7316,7 @@
 		{
 			"techniqueID": "T1052.001",
 			"tactic": "exfiltration",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7766,7 +7766,7 @@
 		{
 			"techniqueID": "T1490",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
