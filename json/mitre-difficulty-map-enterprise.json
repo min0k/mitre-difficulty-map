@@ -7893,7 +7893,36 @@
 		"minValue": 0,
 		"maxValue": 100
 	},
-	"legendItems": [],
+	"legendItems": [
+		{
+			"label": "Support Techniques",
+			"color": "#3182bd"
+		},
+		{
+			"label": "Entry-Level Techniques",
+			"color": "#31a354"
+		},
+		{
+			"label": "Tool-Reliant Techniques",
+			"color": "#e6d60d"
+		},
+		{
+			"label": "Setup-Intensive Techniques",
+			"color": "#fd8d3c"
+		},
+		{
+			"label": "Multi-Layer Techniques",
+			"color": "#756bb1"
+		},
+		{
+			"label": "Expert-Level Techniques",
+			"color": "#fc3b3b"
+		},
+		{
+			"label": "Placeholder",
+			"color": "#636363"
+		}
+	],
 	"metadata": [],
 	"links": [
 		{
