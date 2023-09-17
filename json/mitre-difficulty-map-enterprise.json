@@ -256,7 +256,7 @@
 		{
 			"techniqueID": "T1033",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1446,7 +1446,7 @@
 		{
 			"techniqueID": "T1007",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1506,7 +1506,7 @@
 		{
 			"techniqueID": "T1082",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3966,7 +3966,7 @@
 		{
 			"techniqueID": "T1049",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4216,7 +4216,7 @@
 		{
 			"techniqueID": "T1497",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4226,7 +4226,7 @@
 		{
 			"techniqueID": "T1497",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4236,7 +4236,7 @@
 		{
 			"techniqueID": "T1497.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4246,7 +4246,7 @@
 		{
 			"techniqueID": "T1497.001",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4256,7 +4256,7 @@
 		{
 			"techniqueID": "T1497.003",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4266,7 +4266,7 @@
 		{
 			"techniqueID": "T1497.003",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4276,7 +4276,7 @@
 		{
 			"techniqueID": "T1497.002",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4286,7 +4286,7 @@
 		{
 			"techniqueID": "T1497.002",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7236,7 +7236,7 @@
 		{
 			"techniqueID": "T1018",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7256,7 +7256,7 @@
 		{
 			"techniqueID": "T1518",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7476,7 +7476,7 @@
 		{
 			"techniqueID": "T1124",
 			"tactic": "discovery",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
