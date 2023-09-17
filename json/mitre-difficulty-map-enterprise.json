@@ -536,7 +536,7 @@
 		{
 			"techniqueID": "T1006",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -886,7 +886,7 @@
 		{
 			"techniqueID": "T1547",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#756bb1",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -896,7 +896,7 @@
 		{
 			"techniqueID": "T1547",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#756bb1",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -906,7 +906,7 @@
 		{
 			"techniqueID": "T1547.006",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -916,7 +916,7 @@
 		{
 			"techniqueID": "T1547.006",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -946,7 +946,7 @@
 		{
 			"techniqueID": "T1547.008",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -956,7 +956,7 @@
 		{
 			"techniqueID": "T1547.008",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -966,7 +966,7 @@
 		{
 			"techniqueID": "T1547.004",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -976,7 +976,7 @@
 		{
 			"techniqueID": "T1547.004",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -986,7 +986,7 @@
 		{
 			"techniqueID": "T1547.010",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -996,7 +996,7 @@
 		{
 			"techniqueID": "T1547.010",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1006,7 +1006,7 @@
 		{
 			"techniqueID": "T1547.009",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1016,7 +1016,7 @@
 		{
 			"techniqueID": "T1547.009",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1046,7 +1046,7 @@
 		{
 			"techniqueID": "T1547.002",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1056,7 +1056,7 @@
 		{
 			"techniqueID": "T1547.002",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1106,7 +1106,7 @@
 		{
 			"techniqueID": "T1547.005",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1116,7 +1116,7 @@
 		{
 			"techniqueID": "T1547.005",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1126,7 +1126,7 @@
 		{
 			"techniqueID": "T1547.003",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1136,7 +1136,7 @@
 		{
 			"techniqueID": "T1547.003",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1146,7 +1146,7 @@
 		{
 			"techniqueID": "T1547.007",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1156,7 +1156,7 @@
 		{
 			"techniqueID": "T1547.007",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1166,7 +1166,7 @@
 		{
 			"techniqueID": "T1547.001",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1176,7 +1176,7 @@
 		{
 			"techniqueID": "T1547.001",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1806,7 +1806,7 @@
 		{
 			"techniqueID": "T1140",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2576,7 +2576,7 @@
 		{
 			"techniqueID": "T1205",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2586,7 +2586,7 @@
 		{
 			"techniqueID": "T1205",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2596,7 +2596,7 @@
 		{
 			"techniqueID": "T1205",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2606,7 +2606,7 @@
 		{
 			"techniqueID": "T1205.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2616,7 +2616,7 @@
 		{
 			"techniqueID": "T1205.001",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2626,7 +2626,7 @@
 		{
 			"techniqueID": "T1205.001",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2636,7 +2636,7 @@
 		{
 			"techniqueID": "T1205.002",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2646,7 +2646,7 @@
 		{
 			"techniqueID": "T1205.002",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2656,7 +2656,7 @@
 		{
 			"techniqueID": "T1205.002",
 			"tactic": "command-and-control",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4416,7 +4416,7 @@
 		{
 			"techniqueID": "T1480",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -4426,7 +4426,7 @@
 		{
 			"techniqueID": "T1480.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7056,7 +7056,7 @@
 		{
 			"techniqueID": "T1134",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7066,7 +7066,7 @@
 		{
 			"techniqueID": "T1134",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7076,7 +7076,7 @@
 		{
 			"techniqueID": "T1134.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7086,7 +7086,7 @@
 		{
 			"techniqueID": "T1134.001",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7096,7 +7096,7 @@
 		{
 			"techniqueID": "T1134.002",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7106,7 +7106,7 @@
 		{
 			"techniqueID": "T1134.002",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7116,7 +7116,7 @@
 		{
 			"techniqueID": "T1134.003",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7126,7 +7126,7 @@
 		{
 			"techniqueID": "T1134.003",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7136,7 +7136,7 @@
 		{
 			"techniqueID": "T1134.005",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7146,7 +7146,7 @@
 		{
 			"techniqueID": "T1134.005",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7156,7 +7156,7 @@
 		{
 			"techniqueID": "T1134.004",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7166,7 +7166,7 @@
 		{
 			"techniqueID": "T1134.004",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7895,32 +7895,32 @@
 	},
 	"legendItems": [
 		{
-			"label": "Support Techniques",
-			"color": "#3182bd"
+			"color": "#3182bd",
+			"label": "Support Techniques"
 		},
 		{
-			"label": "Entry-Level Techniques",
-			"color": "#31a354"
+			"color": "#31a354",
+			"label": "Entry-Level Techniques"
 		},
 		{
-			"label": "Tool-Reliant Techniques",
-			"color": "#e6d60d"
+			"color": "#e6d60d",
+			"label": "Tool-Reliant Techniques"
 		},
 		{
-			"label": "Setup-Intensive Techniques",
-			"color": "#fd8d3c"
+			"color": "#fd8d3c",
+			"label": "Setup-Intensive Techniques"
 		},
 		{
-			"label": "Multi-Layer Techniques",
-			"color": "#756bb1"
+			"color": "#756bb1",
+			"label": "Multi-Layer Techniques"
 		},
 		{
-			"label": "Expert-Level Techniques",
-			"color": "#fc3b3b"
+			"color": "#fc3b3b",
+			"label": "Expert-Level Techniques"
 		},
 		{
-			"label": "Placeholder",
-			"color": "#636363"
+			"color": "#636363",
+			"label": "Placeholder"
 		}
 	],
 	"metadata": [],
