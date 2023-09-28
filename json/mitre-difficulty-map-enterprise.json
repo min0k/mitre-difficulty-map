@@ -5916,7 +5916,7 @@
 		{
 			"techniqueID": "T1546",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#756bb1",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5926,7 +5926,7 @@
 		{
 			"techniqueID": "T1546",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#756bb1",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5936,7 +5936,7 @@
 		{
 			"techniqueID": "T1546.011",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5946,7 +5946,7 @@
 		{
 			"techniqueID": "T1546.011",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5956,7 +5956,7 @@
 		{
 			"techniqueID": "T1546.008",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5966,7 +5966,7 @@
 		{
 			"techniqueID": "T1546.008",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5976,7 +5976,7 @@
 		{
 			"techniqueID": "T1546.006",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5986,7 +5986,7 @@
 		{
 			"techniqueID": "T1546.006",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5996,7 +5996,7 @@
 		{
 			"techniqueID": "T1546.007",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6006,7 +6006,7 @@
 		{
 			"techniqueID": "T1546.007",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6016,7 +6016,7 @@
 		{
 			"techniqueID": "T1546.013",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6026,7 +6026,7 @@
 		{
 			"techniqueID": "T1546.013",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6036,7 +6036,7 @@
 		{
 			"techniqueID": "T1546.003",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6046,7 +6046,7 @@
 		{
 			"techniqueID": "T1546.003",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6056,7 +6056,7 @@
 		{
 			"techniqueID": "T1546.014",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6066,7 +6066,7 @@
 		{
 			"techniqueID": "T1546.014",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6076,7 +6076,7 @@
 		{
 			"techniqueID": "T1546.004",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6086,7 +6086,7 @@
 		{
 			"techniqueID": "T1546.004",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6096,7 +6096,7 @@
 		{
 			"techniqueID": "T1546.001",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6106,7 +6106,7 @@
 		{
 			"techniqueID": "T1546.001",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6116,7 +6116,7 @@
 		{
 			"techniqueID": "T1546.012",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6126,7 +6126,7 @@
 		{
 			"techniqueID": "T1546.012",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6136,7 +6136,7 @@
 		{
 			"techniqueID": "T1546.016",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6146,7 +6146,7 @@
 		{
 			"techniqueID": "T1546.016",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6156,7 +6156,7 @@
 		{
 			"techniqueID": "T1546.015",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6166,7 +6166,7 @@
 		{
 			"techniqueID": "T1546.015",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6176,7 +6176,7 @@
 		{
 			"techniqueID": "T1546.010",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6186,7 +6186,7 @@
 		{
 			"techniqueID": "T1546.010",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6196,7 +6196,7 @@
 		{
 			"techniqueID": "T1546.005",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6206,7 +6206,7 @@
 		{
 			"techniqueID": "T1546.005",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6216,7 +6216,7 @@
 		{
 			"techniqueID": "T1546.002",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6226,7 +6226,7 @@
 		{
 			"techniqueID": "T1546.002",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6236,7 +6236,7 @@
 		{
 			"techniqueID": "T1546.009",
 			"tactic": "privilege-escalation",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -6246,7 +6246,7 @@
 		{
 			"techniqueID": "T1546.009",
 			"tactic": "persistence",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
