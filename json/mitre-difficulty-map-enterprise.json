@@ -3246,7 +3246,7 @@
 		{
 			"techniqueID": "T1491",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3256,7 +3256,7 @@
 		{
 			"techniqueID": "T1491.002",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3266,7 +3266,7 @@
 		{
 			"techniqueID": "T1491.001",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5006,7 +5006,7 @@
 		{
 			"techniqueID": "T1565",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#756bb1",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5016,7 +5016,7 @@
 		{
 			"techniqueID": "T1565.003",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5026,7 +5026,7 @@
 		{
 			"techniqueID": "T1565.001",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#31a354",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -5036,7 +5036,7 @@
 		{
 			"techniqueID": "T1565.002",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7756,7 +7756,7 @@
 		{
 			"techniqueID": "T1495",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
