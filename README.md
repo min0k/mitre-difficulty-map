@@ -40,6 +40,4 @@ _in progress.._
 
 ## Acknowledgement
 
-This project is built upon and inspired by [TravisFSmith/mitre_attack](https://github.com/TravisFSmith/mitre_attack). You can find his talk about the project here [MITRE ATT&CKcon 2018: ATT&CK as a Teacher](https://www.youtube.com/watch?v=4s3pZirFCPk&t). 
-
-The original project had not been updated for some time (the last update was for ATT&CK v7, whereas the current version is ATT&CK v13). For personal learning purposes and to maintain the resource's relevance, it has been updated with the latest data.
+This project is built upon and inspired by [TravisFSmith/mitre_attack](https://github.com/TravisFSmith/mitre_attack). You can find his talk about the project here [MITRE ATT&CKcon 2018: ATT&CK as a Teacher](https://www.youtube.com/watch?v=4s3pZirFCPk&t). Travis's repo has not been updated since ATT&CK v7, whereas the current version is ATT&CK v14. For personal learning purposes, and to maintain the resource's relevance it is being updated with the latest data.
