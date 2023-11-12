@@ -8133,6 +8133,16 @@
 			"metadata": [],
 			"links": [],
 			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1021.008",
+			"tactic": "lateral-movement",
+			"color": "#636363",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
 		}
 	],
 	"gradient": {
