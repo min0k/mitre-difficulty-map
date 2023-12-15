@@ -2,7 +2,7 @@
 	"name": "mitre-difficulty-map-enterprise",
 	"versions": {
 		"attack": "14",
-		"navigator": "4.9.0",
+		"navigator": "4.9.1",
 		"layer": "4.5"
 	},
 	"domain": "enterprise-attack",
@@ -557,7 +557,7 @@
 		{
 			"techniqueID": "T1014",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -567,7 +567,7 @@
 		{
 			"techniqueID": "T1123",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#fce93b",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1457,7 +1457,7 @@
 		{
 			"techniqueID": "T1119",
 			"tactic": "collection",
-			"color": "#636363",
+			"color": "#3182bd",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2947,7 +2947,7 @@
 		{
 			"techniqueID": "T1550",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3007,7 +3007,7 @@
 		{
 			"techniqueID": "T1550.003",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -3027,7 +3027,7 @@
 		{
 			"techniqueID": "T1550.002",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e6d60d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -7707,7 +7707,7 @@
 		{
 			"techniqueID": "T1220",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -8077,17 +8077,17 @@
 		{
 			"techniqueID": "T1216",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
 			"links": [],
-			"showSubtechniques": false
+			"showSubtechniques": true
 		},
 		{
 			"techniqueID": "T1216.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -8107,17 +8107,17 @@
 		{
 			"techniqueID": "T1127",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
 			"links": [],
-			"showSubtechniques": false
+			"showSubtechniques": true
 		},
 		{
 			"techniqueID": "T1127.001",
 			"tactic": "defense-evasion",
-			"color": "#636363",
+			"color": "#e60d0d",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
